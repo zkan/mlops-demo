@@ -1,2 +1,1 @@
-# mlops-demo
-MLOps Demo
+# MLOps Demo
