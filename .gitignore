@@ -173,9 +173,14 @@ cython_debug/
 # PyPI configuration file
 .pypirc
 
-# ML Models
+# Transformed data
+pipelines/data/raw_data.csv
+pipelines/data/features.csv
+
+# ML models
 *.pkl
 pipelines/models/metrics.txt
 
 # Artifacts
 pipelines/artifacts/*
+services/artifacts/*
