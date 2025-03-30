@@ -175,3 +175,7 @@ cython_debug/
 
 # ML Models
 *.pkl
+pipelines/models/metrics.txt
+
+# Artifacts
+pipelines/artifacts/*
