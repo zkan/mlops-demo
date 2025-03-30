@@ -1,5 +1,9 @@
 # MLOps Demo
 
+## ML Pipeline using Airflow
+
+![](./docs/img/ml-pipeline-using-airflow.png)
+
 ## Files and What They Do
 
 | Name | Description |
